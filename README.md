@@ -32,10 +32,11 @@ You can click the Preview link to take a look at your changes.
   
 ## • I'm currently learning:
   <a href="https://www.python.org" target="_blank" rel="python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="30"/></a>
+  <a href="https://www.linux.org" target="_blank" rel="linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="30"/></a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="dotnetcore"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="30"/></a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="dot-net"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="dot-net" width="40" height="30"/></a>
   
 ###
 
 <img src="https://user-images.githubusercontent.com/90461798/154513279-ff84d9ca-463a-4568-8e8d-929674c9adde.gif" />
-<a href="https://youtu.be/vRPCAAUBMms"><p>Eve - Shinkai</p></a>
+
