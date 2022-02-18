@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
  - My name is João Vitor and I'm 19 years old
  - I'm from Brazil
  - Computer Engineering Student
- - Fun fact: My favorite song is Shinkai from Eve
+ - Fun fact: My favorite song is <a href="https://youtu.be/vRPCAAUBMms">Shinkai</a> from <a href="https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf?si=n1fsfPl_QpCNLAetuT5yiw">Eve</a>
 
 <a href="https://youtu.be/vRPCAAUBMms"><img src="https://64.media.tumblr.com/b70510e75ff8126b03904c56f723b19a/85de70a28d942659-5a/s1280x1920/72d3b47bc3340a0531c7b41fe75d251562e00e98.gif" alt="Shinkai - Eve" /></a>
  
