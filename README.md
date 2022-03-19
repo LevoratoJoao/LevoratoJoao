@@ -25,9 +25,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170" rel="C-documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="css3" width="40" height="30"/></a> 
   <a href="https://www.w3schools.com/html/default.asp" rel="html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/></a>
   <a href="https://www.w3schools.com/css/default.asp" rel="css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="30"/></a>
-  <a href="https://www.mysql.com" rel="mysql"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mssql" width="40" height="30"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019?rtc=2" rel="sql-server"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mysql" width="40" height="30"/></a>
+ 
 
   
 ## • I'm currently learning:
@@ -35,6 +33,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linux.org" rel="linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="30"/></a>
   <a href="https://dotnet.microsoft.com/en-us/" rel="dotnetcore"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="30"/></a>
   <a href="https://dotnet.microsoft.com/en-us/" rel="dot-net"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="dot-net" width="40" height="30"/></a>
+   <a href="https://www.mysql.com" rel="mysql"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mssql" width="40" height="30"/> </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019?rtc=2" rel="sql-server"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mysql" width="40" height="30"/></a>
   
 ###
 
