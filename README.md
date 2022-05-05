@@ -9,14 +9,15 @@ You can click the Preview link to take a look at your changes.
 --->
 # Welcome to my profile :)
 
+<!--<img src="https://user-images.githubusercontent.com/90461798/154525631-63a426ac-95f1-4092-8913-d3ddf437cbcc.gif" alt="Shinkai - Eve"/>-->
 <img src="https://user-images.githubusercontent.com/90461798/154525631-63a426ac-95f1-4092-8913-d3ddf437cbcc.gif" alt="Shinkai - Eve"/>
 
  - My name is João Vitor and I'm 19 years old
  - I'm from Brazil
  - Computer Engineering Student
- - Fun fact: My favorite song is <a href="https://youtu.be/vRPCAAUBMms">Shinkai</a> from <a href="https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf?si=n1fsfPl_QpCNLAetuT5yiw">Eve</a>
 
-<a href="https://youtu.be/vRPCAAUBMms"><img src="https://64.media.tumblr.com/b70510e75ff8126b03904c56f723b19a/85de70a28d942659-5a/s1280x1920/72d3b47bc3340a0531c7b41fe75d251562e00e98.gif" alt="Shinkai - Eve" /></a>
+<!--<a href="https://youtu.be/vRPCAAUBMms"><img src="https://64.media.tumblr.com/b70510e75ff8126b03904c56f723b19a/85de70a28d942659-5a/s1280x1920/72d3b47bc3340a0531c7b41fe75d251562e00e98.gif" alt="Shinkai - Eve" /></a>-->
+ 
  
 ## • Languages and Tools that I use:
   <a href="https://code.visualstudio.com" rel="vscode"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="30"/></a>
@@ -29,15 +30,20 @@ You can click the Preview link to take a look at your changes.
 
   
 ## • I'm currently learning:
-  <a href="https://www.python.org" rel="python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="30"/></a>
-  <a href="https://www.linux.org" rel="linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="30"/></a>
-  <a href="https://dotnet.microsoft.com/en-us/" rel="dotnetcore"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="30"/></a>
-  <a href="https://dotnet.microsoft.com/en-us/" rel="dot-net"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="dot-net" width="40" height="30"/></a>
+  <!--<a href="https://www.python.org" rel="python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="30"/></a>-->
+  <a href="https://www.php.net" rel="php">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="30"/></a>
+  <a href="https://www.linux.org" rel="linux">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="30"/></a>
+  <a href="https://git-scm.com" rel="git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="40" height="30"/>    
+  <!--<a href="https://dotnet.microsoft.com/en-us/" rel="dotnetcore"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="30"/></a>-->
+  <!--<a href="https://dotnet.microsoft.com/en-us/" rel="dot-net"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="dot-net" width="40" height="30"/></a>-->
    <a href="https://www.mysql.com" rel="mysql"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mssql" width="40" height="30"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019?rtc=2" rel="sql-server"> 
+  <!--<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019?rtc=2" rel="sql-server"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mysql" width="40" height="30"/></a>
   
 ###
 
-<img src="https://user-images.githubusercontent.com/90461798/154513279-ff84d9ca-463a-4568-8e8d-929674c9adde.gif" />
+<!--<img src="https://user-images.githubusercontent.com/90461798/154513279-ff84d9ca-463a-4568-8e8d-929674c9adde.gif" />-->
 
